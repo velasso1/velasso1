@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ---
 ### :chart_with_upwards_trend: Statistics
